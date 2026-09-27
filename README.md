@@ -52,7 +52,7 @@ The environment focuses on security monitoring, attack simulation and detection 
 `Wazuh` `Active Directory` `Atomic Red Team`  
 `Detection Engineering` `SIEM`
 
-🔗 [View Repository](https://github.com/AmineIm1/wazuh-active-directory-detection-lab)
+🔗 [View Repository](https://github.com/Aminelm1/wazuh-active-directory-detection-lab)
 
 </td>
 
@@ -67,7 +67,7 @@ Security-focused task management application built to explore secure application
 `Python` `Docker` `Security`  
 `Application Development`
 
-🔗 [View Repository](https://github.com/AmineIm1/secure-task-manager)
+🔗 [View Repository](https://github.com/Aminelm1/secure-task-manager)
 
 </td>
 </tr>
@@ -86,7 +86,7 @@ Focused on automated API validation and testing workflows.
 `Postman` `API Testing` `Python`  
 `Docker` `Automation`
 
-🔗 [View Repository](https://github.com/AmineIm1/api-testing-automation)
+🔗 [View Repository](https://github.com/Aminelm1/api-testing-automation)
 
 </td>
 
